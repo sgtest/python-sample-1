@@ -1,0 +1,12 @@
+[
+  {
+    "FromRepo": "github.com/sgtest/python-sample-1",
+    "FromUnit": "python-faux-package",
+    "FromUnitType": "python",
+    "ToRepo": "github.com/sgtest/python-sample-0",
+    "ToUnit": "python-faux-package",
+    "ToUnitType": "python",
+    "ToVersionString": "",
+    "ToRevSpec": ""
+  }
+]
