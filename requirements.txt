@@ -1,1 +1,1 @@
-git+git://github.com/sgtest/python-sample-0
+git+https://github.com/sgtest/python-sample-0
