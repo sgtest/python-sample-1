@@ -1,12 +1,3 @@
 {
-  "URI": "github.com/sgtest/python-sample-1",
-  "SourceUnits": [
-    {
-      "Files": [
-        "app/__init__.py",
-        "app/app.py"
-      ],
-      "Type": "python"
-    }
-  ]
+  "URI": "github.com/sgtest/python-sample-1"
 }
